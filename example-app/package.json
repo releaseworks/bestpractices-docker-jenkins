@@ -1,5 +1,5 @@
 {
-  "name": "getintodevops-hellonode",
+  "name": "getintodevops-example-app",
   "version": "1.0.0",
   "description": "A Hello World HTTP server",
   "main": "main.js",
@@ -9,12 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/getintodevops/masterclass-codeexamples/"
+    "url": "https://github.com/getintodevops/bestpractices-docker-jenkins/"
   },
   "keywords": [
     "node",
     "docker",
-    "dockerfile"
+    "dockerfile",
+    "jenkinsfile"
   ],
   "author": "miiro@getintodevops.com",
   "license": "ISC",
